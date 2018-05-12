@@ -1,0 +1,37 @@
+_repo: Contos_31905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Câmara, João da
+    aliases:
+    - Zarco da Camara, Joao Goncalves
+    - Gonçalves Zarco da Câmara, João
+    - Zarco da Câmara, João Gonçalves
+    - Da Câmara, João
+    birthdate: 1852
+    deathdate: 1908
+    gutenberg_agent_id: '35545'
+    url: http://www.gutenberg.org/2009/agents/35545
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2010-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31905'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Portuguese'
+- !lcsh 'Fiction'
+tableOfContents: As Mães -- O Baile dos velhos -- A Outra -- O Paquete -- Perdido
+  -- Ad Astra -- O Ventura -- O Primeiro sorriso -- O Meu rewolver -- O Mimoso --
+  Gri-gri -- Na Biqueira -- Requiem aeternam -- As Estrellas do cego -- Os Netos --
+  A Burrinha branca.
+title: Contos
+url: http://www.gutenberg.org/ebooks/31905
